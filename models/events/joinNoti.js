@@ -66,7 +66,7 @@ AGR AP KO APNE GROUP MA ADMIN KA NAME KA BOT CHAHIE TO WHATSAPP PA CONTACT KR SA
 ⟦🕊️⟦──🎀🧸💖🧸🎀──❀💞⟧  
 🍒🌟✧ℤ𝒶𝒾𝓃🌸✧  
 ⟧🕊️⟧──🎀🧸💖🧸🎀──❀💞⟧
-`, attachment: fs.createReadStream(__dirname + "/cache/botjoin.mp4")} ,threadID));
+`, attachment: fs.createReadStream(__dirname + "/cache/zain.mp4")} ,threadID));
         }
         else {
                 try {
